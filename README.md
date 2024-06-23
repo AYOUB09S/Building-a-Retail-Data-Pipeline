@@ -1,5 +1,6 @@
 
-![walmart](https://github.com/AYOUB09S/Building-a-Retail-Data-Pipeline/assets/78933570/39abc8dd-ff27-48ab-acf1-5faae0105693)
+![walmart 1](https://github.com/AYOUB09S/Building-a-Retail-Data-Pipeline/assets/78933570/d31be4e9-fa0c-49d3-94c5-74e1fd5d5188)
+
 Walmart is the biggest retail store in the United States. Just like others, they have been expanding their e-commerce part of the business. By the end of 2022, e-commerce represented a roaring $80 billion in sales, which is 13% of total sales of Walmart. One of the main factors that affects their sales is public holidays, like the Super Bowl, Labour Day, Thanksgiving, and Christmas.
 # Building-a-Retail-Data-Pipeline
 Mastering data pipelines is essential for Data Engineers. In this project, you'll work with Walmart retail data, retrieving it from SQL and Parquet sources, transforming it using various techniques, and loading it into accessible CSV files. Key functions handle extraction, transformation, loading, and validation.
